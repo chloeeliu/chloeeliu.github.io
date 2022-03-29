@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
+这是我的个人主页，但是现在还什么都没有；可以放一些原型什么的。感觉我真是闲死了。
 You can use the [editor on GitHub](https://github.com/chloeeliu/chloeeliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
