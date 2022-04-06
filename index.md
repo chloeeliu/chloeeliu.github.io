@@ -30,6 +30,8 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
+![屏幕快照 2022-03-17 下午4 03 11](https://user-images.githubusercontent.com/81727596/161884664-fcbf376e-c494-449e-9ad3-77e50a0f9a5c.png)
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chloeeliu/chloeeliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
