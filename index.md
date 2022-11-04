@@ -41,6 +41,7 @@ Implement the data platform to guide business operation analysis, covering users
     * Establish competitive product to analyze the off-site sales data of Shopee and AliExpress to help category managers analyze market trends.
 
 * **Evergrand Hengteng Network**
+
   * 2019 - 2020, Product Technology Center - Product Manager
     *  Use sql and python to output the monthly report of home shopping mall, review the distribution user and product characteristics, and provide data support for distribution channel selection and product selection.
     *   Assist in the promotion distribution module, design the SMS landing page diversion program for real estate project, landing page conversion increase by 5%.
