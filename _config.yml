@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Chloe Liu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  3+ years of data product manager experience with e-commerce experience. Familiar with big data and clickstream data related domain. 
   <br><br>
-  Second description 
+  Currently in the SHEIN artificial intelligence digital center as data product manager. Mainly working for implementing clickstream data governance and behavior analysis platform. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  #<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
