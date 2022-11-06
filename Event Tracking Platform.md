@@ -1,5 +1,5 @@
 ## Event Tracking Platform
-> SHEIN SEPT 2021 -NOW
+> SHEIN, SEPT 2021 -NOW
 
 
 **Project description:** Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
