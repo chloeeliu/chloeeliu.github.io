@@ -4,7 +4,7 @@
 
 ### Project Experience
 
-[User Behavior Analysis Platform](/sample_page)
+[User Behavior Analysis Platform](/user_behavior_analysis)
 
 Promote user behavior analysis platform, using clickhouse, spark and other technologies to instantly analyze daily tens of billions of buried data, design asynchronous, routing engine, index partitioning and other programs to improve query efficiency by 40%, monthly average users 90.
 
