@@ -1,31 +1,39 @@
-## This can be your internal website page / project page??
+## User Behavior Analytics Platform
+**SHEIN FEB 2022 -NOW** 
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Project description:** Using clickhouse, spark and related tech to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 40%, monthly average users 90.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 1. Event Analysis
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+Establish events action analysis function, support flexible dimensions combination to visualize pv, uv and duration time, and improve the efficiency of product function analytics.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### 2. User Behavior
+
+Implement single user path visualization function, and combine with commodity data to present browsing events, help customer service badcase analysis efficiency increased by 30%.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+### 3. Sankey Path
+
+Build the function to depict the session flow, present the nodes and links of actions mapping relationship by using sankey diagram intuitively, and help UED optimize visitor experience.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+### 4. Funnel Analysis
+
+Establish funnel exploration function to visualize users steps to a task, support open or closed toggle and multi-dimensional analysis, and improve the path to conversion.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
