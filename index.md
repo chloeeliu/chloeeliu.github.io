@@ -52,7 +52,7 @@ Implement the data platform to help business operation analysis, covering user, 
 ### Education
 
 * **South China University of Technology (985)** 
-  * Bachelor's Degree in Accounting, GPA 3.6, 2015 - 2019  
+  * Bachelor's Degree in Accounting, GPA 3.6/4.0, 2015 - 2019  
 
 * **Applied Data Science with Python Specialization** 
   * UMich Coursera, 93.5%, 2021
