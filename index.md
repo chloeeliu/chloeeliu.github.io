@@ -4,26 +4,23 @@
 
 ### Project Experience
 
-[User Behavior Analysis Platform](/user_behavior_analysis)
+[User Behavior Analytics Platform](/User Behavior Analytics Platform)
 
-Promote user behavior analysis platform, using clickhouse, spark and other technologies to instantly analyze daily tens of billions of buried data, design asynchronous, routing engine, index partitioning and other programs to improve query efficiency by 40%, monthly average users 90.
-
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Clickstream Quality Platform](/pdf/sample_presentation.pdf)
-
-Implement clickstream events management, auto testing and monitoring module to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
-
+Using clickhouse, spark and related tech to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 40%, monthly average users 90.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Home Industry Data Platform](http://example.com/)
+[Event Tracking Platform](/pdf/sample_presentation.pdf)
 
-Implement the data platform to guide business operation analysis, covering users, behaviors, commodities and orders in multiple dimensions, with 111 indicators and 230 events.
+Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Home Industry Dashboard](http://example.com/)
+
+Implement the data platform to help business operation analysis, covering user, behaviors, commodity and orders in multiple dimensions, with 111 indicators and 230 events.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -34,18 +31,18 @@ Implement the data platform to guide business operation analysis, covering users
 
 * **SHEIN**
   * 2021 - now, Artificial Intelligence Digital Center - Data Product Manager
-    * Proficient in using sql/hive sql and python to process and clean data, analyze clickstream data features, and output session distribution demos to assist product implementation.
-    * Research industry clickstream frameworks and governance solutions, combine internal situation to output research reports and share within the group, promote clickstream events framework optimization.
-    *  Assist events testing, sort out historical bugs to summarize test cases, complete cold start of auto testing function, and improve events test efficiency by 30%.
-    * Implement data warning function, monitor the fluctuation of scheduling indicators, cover four core scenarios, and improve the efficiency of abnormality troubleshooting by 20%.
-    * Establish competitive product to analyze the off-site sales data of Shopee and AliExpress to help category managers analyze market trends.
+    * Proficient in using sql/hive sql and python to process and clean data, analyze events data features, and output session distribution demo to assist product implementation.
+    * Investigate industry clickstream frameworks and governance solutions, combining internal situation, to promote clickstream events framework optimization.
+    * Assist events testing, sort out historical bugs to summarize test cases, complete cold start of auto testing function, and improve events test efficiency by 30%.
+    * Implement metrics monitoring function and push notifications through various channels, cover four core scenarios, and improve the troubleshooting efficiency by 20%.
+    * Establish off-site sales analysis function of Shopee and AliExpress to help managers analyze market trends.
 
 * **Evergrand Hengteng Network**
 
   * 2019 - 2020, Product Technology Center - Product Manager
-    *  Use sql and python to output the monthly report of home shopping mall, review the distribution user and product characteristics, and provide data support for distribution channel selection and product selection.
-    *   Assist in the promotion distribution module, design the SMS landing page diversion program for real estate project, landing page conversion increase by 5%.
-    *   Implement home industry CRM system, covering the customer acquisition to order business process, design the arrival rate conversion rate and other indicators to optimize the retention strategy, bringing customers 265 people, promote a single million rmb.
+    *  Use sql and python to output the monthly report of home shopping mall, analyze the user features and product characteristics, and support the distribution channels and product selection.
+    *  Assist in the promotion distribution module, design the SMS landing page conversion program for real estate project, landing page conversion increase by 5%.
+    *  Implement home CRM system, covering the customer acquisition to retention, design the conversion rate and other metrics to optimize the strategy, bringing 265 customers, ordering million amount.
 
 
 
@@ -68,9 +65,9 @@ Implement the data platform to guide business operation analysis, covering users
 
 ### Professional Skills
 
-* Familiar with big data, data warehouse, click stream data; demonstrates strong skills in processing and analyzing data using sql and python; implement clickstream governance and behavior analysis platform successfully.
+* Familiar with big data, click stream data; demonstrates strong skills in processing and analyzing data using sql and python; implement event tracking and user behavior analysis platform successfully.
 
-* Having strong project management ability, collaborate with a team of 20 people in analysts, engineer, ui design, etc. to promote the platform construction.
+* Having strong project management ability, collaborate with a team of 20 people in analysts, engineer, ui design, etc. to promote the platform implementation.
 
 
 ---
