@@ -11,14 +11,14 @@ Using clickhouse, spark and related tech to instantly analyze daily tens of bill
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Event Tracking Platform](/pdf/sample_presentation.pdf)
+[Event Tracking Platform](/Event Tracking Platform.md)
 
 Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Home Industry Dashboard](http://example.com/)
+[Home Industry Dashboard](/Home Industry Dashboard.md)
 
 Implement the data platform to help business operation analysis, covering user, behaviors, commodity and orders in multiple dimensions, with 111 indicators and 230 events.
 
