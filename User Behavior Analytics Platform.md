@@ -1,5 +1,5 @@
 ## User Behavior Analytics Platform
-> SHEIN FEB 2022 -NOW
+> SHEIN, FEB 2022 -NOW
 
 
 **Project description:** Using clickhouse, spark and related tech to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 40%, monthly average users 90.
