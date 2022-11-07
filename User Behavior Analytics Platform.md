@@ -8,7 +8,7 @@
 
 Establish events action analysis function, support flexible dimensions combination to visualize pv, uv and duration time, and improve the efficiency of product function analytics.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/eventanalytics.png?raw=true"/>
 
 
 
@@ -17,7 +17,7 @@ Establish events action analysis function, support flexible dimensions combinati
 
 Implement single user path visualization function, and combine with commodity data to present browsing events, help customer service badcase analysis efficiency increased by 30%.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/userbehavior.png?raw=true"/>
 
 
 
@@ -25,7 +25,7 @@ Implement single user path visualization function, and combine with commodity da
 
 Build the function to depict the session flow, present the nodes and links of actions mapping relationship by using sankey diagram intuitively, and help UED optimize visitor experience.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pathanalytics.png?raw=true"/>
 
 
 
@@ -33,7 +33,7 @@ Build the function to depict the session flow, present the nodes and links of ac
 
 Establish funnel exploration function to visualize users steps to a task, support open or closed toggle and multi-dimensional analysis, and improve the path to conversion.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/funnel.png?raw=true"/>
 
 
 
