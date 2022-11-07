@@ -8,21 +8,20 @@
 
 Using clickhouse, spark and related tech to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 40%, monthly average users 90.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/userall.png?raw=true"/>
 
 ---
 [Event Tracking Platform](/Event Tracking Platform.md)
 
 Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/eventall.png?raw=true"/>
 
 ---
 [Home Industry Dashboard](/Home Industry Dashboard.md)
 
 Implement the data platform to help business operation analysis, covering user, behaviors, commodity and orders in multiple dimensions, with 111 indicators and 230 events.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
