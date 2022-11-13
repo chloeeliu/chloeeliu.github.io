@@ -22,7 +22,7 @@ Implement event tracking management, auto testing and monitoring modules to mana
 
 Implement the data platform to help business operation analysis, covering user, behaviors, commodity and orders in multiple dimensions, with 111 indicators and 230 events.
 
-<img src="images/report.jpg?raw=true"/>
+<img src="images/report_a.jpg?raw=true"/>
 
 
 ---
