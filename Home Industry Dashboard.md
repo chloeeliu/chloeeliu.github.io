@@ -30,7 +30,10 @@ Build data dashboard, use mysql with python echarts to visualize 111 metrics, su
 
 Implement monthly project dashboards to provide operational recommendations for the home business from the perspective of geography, projects, demographics, suppliers, and merchandise.
 
-<img src="images/report.jpg?raw=true"/>
+<img src="images/sale.jpg?raw=true"/>
+
+<img src="images/prom.jpg?raw=true"/>
+
 
 
 
