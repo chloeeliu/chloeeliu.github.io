@@ -9,8 +9,6 @@
 
 Analyze the business scenarios of the four business lines, cover the key aspects of acquisition, engagement, monetization, and retention, and design the 111 metrics.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 
 
@@ -18,7 +16,6 @@ Analyze the business scenarios of the four business lines, cover the key aspects
 
 Implement 230 events including defining the global metadata and trigger with engineers, and inspect the events quality to figure out abnormality.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
@@ -26,7 +23,6 @@ Implement 230 events including defining the global metadata and trigger with eng
 
 Build data dashboard, use mysql with python echarts to visualize 111 metrics, support new customers, acquisition channels and other dimensions analysis.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
@@ -34,5 +30,7 @@ Build data dashboard, use mysql with python echarts to visualize 111 metrics, su
 
 Implement monthly project dashboards to provide operational recommendations for the home business from the perspective of geography, projects, demographics, suppliers, and merchandise.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/report.jpg?raw=true"/>
+
+
 
