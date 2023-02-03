@@ -56,10 +56,13 @@ Implement the data platform to help business operation analysis, covering user, 
   * Bachelor's Degree in Accounting, GPA 3.6/4.0, 2015 - 2019  
 
 * **Applied Data Science with Python Specialization** 
-  * UMich Coursera, 93.5%, 2021
+  * UMich Coursera, 2021
+
+* **Machine Learning Specialization** 
+  * Stanford Coursera, 2023
 
 * **English Certification** 
-  * CET-6, TOEFL 91   
+  * CET-6, TOEFL 106  
 
  
 ---
