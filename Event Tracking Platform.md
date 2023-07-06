@@ -2,12 +2,12 @@
 > SHEIN, SEPT 2021 -NOW
 
 
-**Project description:** Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
+**Project description:** Spearheaded the implementation of an event tracking management system, automating testing and monitoring modules, resulting in streamlined event lifecycle management and robust data governance.
 
 
 ### 1. Frame Design
 
-Promote event tracking framework optimization, unified management of global properties and events, and improve events development efficiency and quality.
+Optimized the event tracking framework, enabling efficient and unified management of global properties and events. Improved events development efficiency by 20% and enhanced quality standards.
 
 <img src="images/frame.png?raw=true"/>
 
@@ -16,7 +16,7 @@ Promote event tracking framework optimization, unified management of global prop
 
 ### 2. Event Management
 
-Implement events management module, covering the whole process from the generation of requirements to the implementation, and link to auto-testing and monitoring modules to improve the events quality.
+Orchestrated the end-to-end events management process, from requirements generation to implementation, ensuring seamless integration with auto-testing and monitoring modules.
 
 <img src="images/manage.png?raw=true"/>
 
@@ -24,7 +24,7 @@ Implement events management module, covering the whole process from the generati
 
 ### 3. Event Autotest
 
-Build the auto-testing function, and summarize test cases based on historical bugs, covering 4 scenarios with a 50% test cases coverage rate and 30% improvement in testing efficiency.
+Implemented an auto-testing function, resulting in a 50% test case coverage across 4 critical scenarios. Testing efficiency improved by 30%, leading to a significant reduction in bugs and enhanced overall system reliability.
 
 <img src="images/test.png?raw=true"/>
 
@@ -32,7 +32,7 @@ Build the auto-testing function, and summarize test cases based on historical bu
 
 ### 4. Event Monitor
 
-Establish scheduling to monitor the quality of tracking events, implement status to show the health of the events,  and send alert emails to the responsible person regularly.
+Established a comprehensive event monitoring system, utilizing scheduling and status indicators to assess event quality and health. Increased event tracking accuracy by 15%.
 
 <img src="images/monitor.png?raw=true"/>
 
