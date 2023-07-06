@@ -2,11 +2,12 @@
 > SHEIN, FEB 2022 -NOW
 
 
-**Project description:** Using clickhouse, spark and related tech to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 40%, monthly average users 90.
+**Project description:**  Utilized ClickHouse, Spark, and related technologies for instant analysis of daily tens of billions of events data. Designed asynchronous, routing engines, and partitioning techniques, boosting query efficiency by 40%. 
 
 ### 1. Event Analysis
 
-Establish events action analysis function, support flexible dimensions combination to visualize pv, uv and duration time, and improve the efficiency of product function analytics.
+Developed an event action analysis function, enabling flexible combination of dimensions to visualize key metrics such as unique visitors (UV) to significantly improved the analytics efficiency.
+
 
 <img src="images/eventanalytics.png?raw=true"/>
 
@@ -15,7 +16,8 @@ Establish events action analysis function, support flexible dimensions combinati
 
 ### 2. User Behavior
 
-Implement single user path visualization function, and combine with commodity data to present browsing events, help customer service badcase analysis efficiency increased by 30%.
+Implemented a single user path visualization function, integrating commodity data to present browsing events for bad case analysis, resulting in a 30% increase in efficiency.
+
 
 <img src="images/userbehavior.png?raw=true"/>
 
@@ -23,7 +25,8 @@ Implement single user path visualization function, and combine with commodity da
 
 ### 3. Sankey Path
 
-Build the function to depict the session flow, present the nodes and links of actions mapping relationship by using sankey diagram intuitively, and help UED optimize visitor experience.
+Designed and built a sankey diagram-based function to illustrate session flows, mapping the nodes and links of actions intuitively. Identified and utilized specific patterns to enhance the user experience.
+
 
 <img src="images/pathanalytics.png?raw=true"/>
 
@@ -31,7 +34,8 @@ Build the function to depict the session flow, present the nodes and links of ac
 
 ### 4. Funnel Analysis
 
-Establish funnel exploration function to visualize users steps to a task, support open or closed toggle and multi-dimensional analysis, and improve the path to conversion.
+Established a funnel exploration function to visualize user steps towards completing a task. Supported open or closed toggles and multi-dimensional analysis, resulting in improved path-to-conversion rates.
+
 
 <img src="images/funnel.png?raw=true"/>
 
