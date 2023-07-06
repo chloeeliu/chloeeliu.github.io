@@ -2,33 +2,31 @@
 > Evergrand Hengteng, SEPT 2020 - MAY 2021
 
 
-**Project description:** Implement the data platform to help business operation analysis, covering user, behaviors, commodity and orders in multiple dimensions, with 111 indicators and 230 events.
+**Project description:** Led the successful implementation of a data dashboard, enabling comprehensive business operation analysis. The platform covered user behavior, commodity, and order data across multiple dimensions, comprising 111 key indicators and 230 events.
 
 
 ### 1. Index Frame
 
-Analyze the business scenarios of the four business lines, cover the key aspects of acquisition, engagement, monetization, and retention, and design the 111 metrics.
-
+Conducted a rigorous analysis to identify critical aspects such as user acquisition, engagement, monetization, and retention AARRR model. Developed a robust index framework, encompassing 111 metrics to effectively measure and evaluate business performance.
 
 
 
 ### 2. Event Track
 
-Implement 230 events including defining the global metadata and trigger with engineers, and inspect the events quality to figure out abnormality.
-
+Collaborated closely with engineering teams to define and implement 230 events and implemented rigorous quality checks to ensure data integrity and reliability.
 
 
 
 ### 3. Build Dashboad
 
-Build data dashboard, use mysql with python echarts to visualize 111 metrics, support new customers, acquisition channels and other dimensions analysis.
+Engineered a powerful data visualization solution in Python's Echarts for in for interactive  in-depth analyses across dimensions such as new customer insights.
 
 
 
 
 ### 4. Data Driven
 
-Implement monthly project dashboards to provide operational recommendations for the home business from the perspective of geography, projects, demographics, suppliers, and merchandise.
+Established comprehensive monthly project reports, utilizing statistical models to generate actionable insights and operational recommendations for the home industry to drive data-driven decision-making.
 
 <img src="images/sale.jpg?raw=true"/>
 
