@@ -2,7 +2,31 @@
 
 ---
 
+
+### Work Experience
+
+* **SHEIN**
+  * 2021 - now, Artificial Intelligence Digital Center - Data Product Manager
+    * Governance large volumes of event tracking and competitor data, designed and implemented robust data warehouse structures and build tools to improve the management efficient.
+    * Designed and implemented user behavior interactive analytics platform based on olap tech, boosted query efficiency by 30%
+
+* **EVERGRAND REAL ESTATE**
+
+  * 2019 - 2020, Product Technology Center - Product Manager
+    * Implemented of a comprehensive data dashboard from event tracking, ETL, engineering and monthly reports, facillitating accurate analysis for decision making.
+    * Established CRM system to manage sales opportunity and boost 1 millions profit by recognize efficient customers.
+
+
+---
+
 ### Project Experience
+
+
+[Competitor Data Warehouse Architect](/Competitor Data.md)
+
+Strategically acquiring competitor company data from trusted suppliers. Architected a high volume data, 10 billions daily, warehouse structure to effectively ETL and precise estimate of daily sales for competitors,contributing to informed decision-making processes.
+
+---
 
 [User Behavior Analytics Platform](/User Behavior Analytics Platform.md)
 
@@ -25,60 +49,41 @@ Implement the data platform to help business operation analysis, covering user, 
 <img src="images/report_a.jpg?raw=true"/>
 
 
----
-
-
-### Work Experience
-
-* **SHEIN**
-  * 2021 - now, Artificial Intelligence Digital Center - Data Product Manager
-    * Proficient in using sql/hive sql and python to process and clean data, analyze events data features, and output session distribution demo to assist product implementation.
-    * Investigate industry clickstream frameworks and governance solutions, combining internal situation, to promote clickstream events framework optimization.
-    * Assist events testing, sort out historical bugs to summarize test cases, complete cold start of auto testing function, and improve events test efficiency by 30%.
-    * Implement metrics monitoring function and push notifications through various channels, cover four core scenarios, and improve the troubleshooting efficiency by 20%.
-    * Establish off-site sales analysis function of Shopee and AliExpress to help managers analyze market trends.
-
-* **Evergrand Hengteng Network**
-
-  * 2019 - 2020, Product Technology Center - Product Manager
-    *  Use sql and python to output the monthly report of home shopping mall, analyze the user features and product characteristics, and support the distribution channels and product selection.
-    *  Assist in the promotion distribution module, design the SMS landing page conversion program for real estate project, landing page conversion increase by 5%.
-    *  Implement home CRM system, covering the customer acquisition to retention, design the conversion rate and other metrics to optimize the strategy, bringing 265 customers, ordering million amount.
-
-
-
 
 ---
 
 ### Education
 
-* **South China University of Technology (985)** 
-  * Bachelor's Degree in Accounting, GPA 3.6/4.0, 2015 - 2019  
+* **SOUTH CHINA UNIVERSITY OF TECHNOLOGY (985)** 
+  * Bachelor's Degree in Accounting, GPA 3.56/4.0, 2015 - 2019
+  * Relevant Coursework: Statistic Pinciple, Database Management, Data Driven Decision Making, Probability Theory, Calculus, Linear Algebra, Data Modeling and Financial Analytics.
 
-* **Applied Data Science with Python Specialization** 
-  * UMich Coursera, 2021
-
-* **Machine Learning Specialization** 
-  * Stanford Coursera, 2023
+* **COURSERA CERTIFICATION** 
+  * Applied Data Science with Python Specialization by UMich
+  * Machine Learning Specialization by Stanford
+  * Data Analytics Certification by Google
 
 * **English Certification** 
-  * CET-6, TOEFL 106  
+  * TOEFL 106, GRE 323
 
  
 ---
 
 ### Professional Skills
 
-* Familiar with big data, click stream data; demonstrates strong skills in processing and analyzing data using sql and python; implement event tracking and user behavior analysis platform successfully.
 
-* Having strong project management ability, collaborate with a team of 20 people in analysts, engineer, ui design, etc. to promote the platform implementation.
-
+* Big Data: Proficient in handling large volumes in hadoop hive architect.
+* Collaboration: Effective team player, collaborating with cross-functional teams of engineers
+* Programming: Strong skills in SQL and Python for data analysis, cleaning and visualization
+* Product Design: Experienced in delivering roadmaps, prototypes and ER map in Figma and Axure.
+* Research: Proactive in gathering industry information to drive improvement in work processes.
 
 ---
 
 ### Interests
 
-  * Mountain climbing and hiking, blizzard games, astronomy documentaries, cryptography, baking and cooking
+  * Mountain climbing and hiking
+  * Cosmic and astronomy
 
 
 
