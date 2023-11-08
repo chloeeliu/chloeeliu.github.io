@@ -7,24 +7,35 @@
 
 * **SHEIN**
   * 2021 - now, Artificial Intelligence Digital Center - Data Product Manager
-    * Governance large volumes of event tracking and competitor data, designed and implemented robust data warehouse structures and build tools to improve the management efficient.
-    * Designed and implemented user behavior interactive analytics platform based on olap tech, boosted query efficiency by 30%
+    * Constructed NLP pipelines leveraging large language models like GPT-3 for named entity recognition, categorization, and product recommendations with fine tuning and prompt engineering python skills.
+    * Architected scalable data pipeline and data warehouse to solve anti-crawling issues (Snowflake) enabling timely analysis of 100+ competitor sources.
+    * Established data governance standards and automated monitoring ensuring timely and complete data delivery for business teams.
 
 * **EVERGRAND REAL ESTATE**
 
-  * 2019 - 2020, Product Technology Center - Product Manager
-    * Implemented of a comprehensive data dashboard from event tracking, ETL, engineering and monthly reports, facillitating accurate analysis for decision making.
-    * Established CRM system to manage sales opportunity and boost 1 millions profit by recognize efficient customers.
+  * 2019 - 2020, Product Technology Center - Data Product Manager
+    * Delivered event tracking and analysis reports for web and mobile apps generating insights for 500+ internal business users. (python + sql).
+    * Drove requirements and UML design of customer relationship management system and communicate actively with engineers to support sales processes.
 
 
 ---
 
 ### Project Experience
 
+[ Competitor Fashion Trend Mining](/Competitor Data.md)
 
-[Competitor Data Warehouse Architect](/Competitor Data.md)
+* Constructed end-to-end pipeline for NLP task extracting competitor fashion trends from web crawling data, applying LLM (GPT-3) with fine tuning and prompt engineer to extract key attributes with 90% accuracy.
+* Developed clothes design generating function based on Stable Diffusion model with LORA for on-trend attributes combination.
+* Increased monthly revenue by $1M through data-driven insights for buyers and designers.
 
-Strategically acquiring competitor company data from trusted suppliers. Architected a high volume data, 10 billions daily, warehouse structure to effectively ETL and precise estimate of daily sales for competitors,contributing to informed decision-making processes.
+
+---
+
+[Competitor Data Warehouse Architect]
+
+* Designed data pipeline based on kafka and AWS for multiple web crawler data like 3+ worldwide commerce sites.
+* Built highly scalable data warehouse architecture on Apark Hadoop with automated monitoring and built parallel pipelines for main and backup data to solve anti-crawling issues, processing 10 billion e-commerce records daily with 100+ hive schedules.
+* Enabled sub-10% error in competitor sales estimates supporting pricing and product decisions through interactive Tableau dashboards and production system.
 
 ---
 
