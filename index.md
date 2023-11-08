@@ -22,7 +22,7 @@
 
 ### Project Experience
 
-[ Competitor Fashion Trend Mining](/Competitor Data.md)
+[ Competitor Fashion Trend Mining](/)
 
 * Constructed end-to-end pipeline for NLP task extracting competitor fashion trends from web crawling data, applying LLM (GPT-3) with fine tuning and prompt engineer to extract key attributes with 90% accuracy.
 * Developed clothes design generating function based on Stable Diffusion model with LORA for on-trend attributes combination.
@@ -31,7 +31,7 @@
 
 ---
 
-[Competitor Data Warehouse Architect]
+[Competitor Data Warehouse Architect](/Competitor Data.md)
 
 * Designed data pipeline based on kafka and AWS for multiple web crawler data like 3+ worldwide commerce sites.
 * Built highly scalable data warehouse architecture on Apark Hadoop with automated monitoring and built parallel pipelines for main and backup data to solve anti-crawling issues, processing 10 billion e-commerce records daily with 100+ hive schedules.
