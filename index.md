@@ -31,7 +31,7 @@
 
 ---
 
-[Competitor Data Warehouse Architect](/Competitor Data.md)
+[Competitor Data Warehouse Architect](/)
 
 * Designed data pipeline based on kafka and AWS for multiple web crawler data like 3+ worldwide commerce sites.
 * Built highly scalable data warehouse architecture on Apark Hadoop with automated monitoring and built parallel pipelines for main and backup data to solve anti-crawling issues, processing 10 billion e-commerce records daily with 100+ hive schedules.
