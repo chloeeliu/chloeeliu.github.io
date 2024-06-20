@@ -1,6 +1,16 @@
 ## Portfolio
 
 ---
+### Education
+
+* **UNIVERSITY OF WISCONSIN - MADISON** 
+  * Master of Science in Computer Science, 2024 - 2026
+  * Advanced Computer Architecture, Big Data Systems, Deep Learning, Advanced Natural Language Processing.
+
+* **SOUTH CHINA UNIVERSITY OF TECHNOLOGY (Canton Top2)** 
+  * Bachelor's Degree in Accounting, GPA 3.56/4.0, 2015 - 2019
+  * Statistic Pinciple, Database Management, Data Driven Decision Making, Probability Theory, Calculus, Linear Algebra, Data Modeling and Financial Analytics.
+
 
 
 ### Work Experience
@@ -63,11 +73,7 @@ Implement the data platform to help business operation analysis, covering user, 
 
 ---
 
-### Education
-
-* **SOUTH CHINA UNIVERSITY OF TECHNOLOGY (985)** 
-  * Bachelor's Degree in Accounting, GPA 3.56/4.0, 2015 - 2019
-  * Relevant Coursework: Statistic Pinciple, Database Management, Data Driven Decision Making, Probability Theory, Calculus, Linear Algebra, Data Modeling and Financial Analytics.
+### Further Education
 
 * **COURSERA CERTIFICATION** 
   * Applied Data Science with Python Specialization by UMich
@@ -77,7 +83,11 @@ Implement the data platform to help business operation analysis, covering user, 
 * **English Certification** 
   * TOEFL 106, GRE 323
 
+* **AWS Training** 
+  * Architecting on AWS with AWS Jam
+  * Machine Learning and GenAI application Development
  
+    
 ---
 
 ### Professional Skills
