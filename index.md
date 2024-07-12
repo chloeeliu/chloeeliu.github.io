@@ -19,7 +19,15 @@ This project was designed to leverage cutting-edge AI technologies to enhance ou
 <img src="images/attributes/1.png?raw=true"/>
 
 ---
-[Enhanced Fashion Design with Stable Diffusion](https://github.com/chloeeliu/LLMs-application/blob/main/fashion-attributes/readme.md)
+[Enhanced Fashion Design with Stable Diffusion](https://github.com/chloeeliu/LLMs-application/blob/main/Enhanced%20Fashion%20Design%20with%20Stable%20Diffusion/readme.md)
+
+This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:
+
+- Trendy Redesigns: Updates existing garments to align with current trends.
+
+- Style and Fabric Recoloring: Alters garment styles and colors via AI.
+
+- Background Replacement: Modifies still image backgrounds to enhance product focus.
 
 <img src="images/sd/1.png?raw=true"/>
 
