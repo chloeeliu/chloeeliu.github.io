@@ -16,12 +16,12 @@ This project aimed to revolutionize the way product titles are matched with cate
 This project was designed to leverage cutting-edge AI technologies to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing CLIP for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
 
 
-<img src="images/attribute/1.png?raw=true"/>
+<img src="images/attributes/1.png?raw=true"/>
 
 ---
-[Enhanced Fashion Design with Stable Diffusion](http://example.com/)(https://github.com/chloeeliu/LLMs-application/blob/main/Enhanced%20Fashion%20Design%20with%20Stable%20Diffusion/readme.md)
+[Enhanced Fashion Design with Stable Diffusion](https://github.com/chloeeliu/LLMs-application/blob/main/fashion-attributes/readme.md)
 
-<img src="images/sb/1.png?raw=true"/>
+<img src="images/sd/1.png?raw=true"/>
 
 ---
 
