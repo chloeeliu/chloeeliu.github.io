@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Industry Projects at SHEIN
 
 [Enhanced Product Categorization with RAG and GPT](https://github.com/chloeeliu/LLMs-application/tree/main/Enhanced%20Product%20Categorization%3A%20Leveraging%20RAG%20and%20GPT%20for%20Precision%20and%20Efficiency)
 
@@ -41,19 +41,33 @@ This project was initiated to harness the power of web-crawled competitor data, 
 
 ---
 
+[Event Tracking and User Analytics Platform](sample_page.md)
 
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/dw/1.png?raw=true"/>
 
 ---
 
 
+### Kaggle Projects
+
+- [House Price Predict top 3% Ranking](https://github.com/chloeeliu/DataSciencePortfolio/tree/main/Kaggle_house_price_predict)
+- [Hand Written Digit Recognization](https://github.com/chloeeliu/DataSciencePortfolio/blob/main/Hand_Written_Digit_Recognization/digit%20recognizer.ipynb)
+- [Titanic Survived Predict](https://github.com/chloeeliu/DataSciencePortfolio/blob/main/Titan_Survived_Predict/titanic%20survived%20predict.ipynb)
+
+
+---
+
+### Coursera Certificates
+
+- [Natural Language Processing with Probabilistic Models by DeepLearning](https://coursera.org/share/77c537479f66df08cb4f98cc85c00482)
+- [Machine Learning Specialization by Deeplearning](https://coursera.org/share/3416876f5d22628638b4b3e4d4740645)
+- [Applied Data Science with Python Specialization by UMich](https://coursera.org/share/e1f257c5914c91b712dc7884923288df)
+- [Chatgpt Prompt Engineering for Developers by DeepLearning](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+
+---
 
 
 ---
