@@ -8,7 +8,7 @@
 
 ### 1. Event Tracking Management
 
-<img src="images/event/manage.jpg?raw=true"/>
+<img src="images/event/manage.png?raw=true"/>
 
 - Frame Design: Promote event tracking framework optimization, unified management of global properties and events, and improve events development efficiency and quality.
 - Event Manage: Implement events management module, covering the whole process from the generation of requirements to the implementation, and link to auto-testing and monitoring modules to improve the events quality.
@@ -17,7 +17,7 @@
   
 
 ### 2. User Analysis OLAP
-<img src="images/event/user.jpg?raw=true"/>
+<img src="images/event/user.png?raw=true"/>
 
 - Event Analysis: Establish events action analysis function, support flexible dimensions combination to visualize pv, uv and duration time, and improve the efficiency of product function analytics.
 - User Behavior: Implement single user path visualization function, and combine with commodity data to present browsing events, help customer service badcase analysis efficiency increased by 30%.
