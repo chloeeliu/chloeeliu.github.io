@@ -1,10 +1,15 @@
 title: Chloe Liu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Pursuing opportunity to excel in algorithmic roles. Incoming 2024 Fall students for Master of Science in Computer Science at University of Wisconsin - Madison.
   <br><br>
-  Second description 
+  Senior Product Manager with 5 years of experience in big data and AI field, especially in leveraging LLM in fashion industry and Hadoop architecture for big data management.
   <br><br>
+  Professional Experience:
+  Shein, Product Manager, May 2021 - Aug 2024
+  Evergrand Group, Product Manager, May 2019 - Apr 2021
+  <br><br>
+
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
