@@ -1,31 +1,29 @@
-## This can be your internal website page / project page
+# Event Tracking Management and User Analysis OLAP Platform
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+- Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
+- Using clickhouse OLAP with advanced data structure like linked list and directed graph to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 30%, monthly average users 90.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 1. Event Tracking Management
 
-### 2. Assess assumptions on which statistical inference will be based
+<img src="images/event/manage.jpg?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+- Frame Design: Promote event tracking framework optimization, unified management of global properties and events, and improve events development efficiency and quality.
+- Event Manage: Implement events management module, covering the whole process from the generation of requirements to the implementation, and link to auto-testing and monitoring modules to improve the events quality.
+- Event Autotest: Build the auto-testing function, and summarize test cases based on historical bugs, covering 4 scenarios with a 50% test cases coverage rate and 30% improvement in testing efficiency.
+- Event Monitor: Establish scheduling to monitor the quality of tracking events, implement status to show the health of the events,  and send alert emails to the responsible person regularly.
+  
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 2. User Analysis OLAP
+<img src="images/event/user.jpg?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- Event Analysis: Establish events action analysis function, support flexible dimensions combination to visualize pv, uv and duration time, and improve the efficiency of product function analytics.
+- User Behavior: Implement single user path visualization function, and combine with commodity data to present browsing events, help customer service badcase analysis efficiency increased by 30%.
+- Sankey Path: Build the function to depict the session flow, present the nodes and links of actions mapping relationship by using sankey diagram intuitively, and help UED optimize visitor experience.
+- Funnel Analysis: Establish funnel exploration function to visualize users steps to a task, support open or closed toggle and multi-dimensional analysis, and improve the path to conversion.
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
