@@ -41,11 +41,13 @@ This project was initiated to harness the power of web-crawled competitor data, 
 
 ---
 
-[Event Tracking and User Analytics Platform](sample_page.md)
+[Event Tracking Management and User Analysis OLAP Platform](sample_page.md)
 
+- Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
 
+- Using clickhouse OLAP with advanced data structure like linked list and directed graph to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 30%, monthly average users 90.
 
-<img src="images/dw/1.png?raw=true"/>
+<img src="images/event/user.png?raw=true"/>
 
 ---
 
