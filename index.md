@@ -23,7 +23,7 @@ This project aimed to revolutionize the way product titles are matched with cate
 Achieving **93%+** accuracy in multilables categorization.
 
 
-<img src="images/rag/1.jpg?raw=true"/>
+![image](https://github.com/user-attachments/assets/c19c1555-5bf6-4a50-b9bb-6de7a392ff55)
 
 ---
 
