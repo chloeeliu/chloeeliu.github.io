@@ -55,19 +55,36 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 ### Work Experience
 
 
-### SHEIN
-#### Apr.2021 – Aug.2024
-#### Algorithm
+#### SHEIN
 
-- 
+##### Apr.2021 – Aug.2024
+##### Algorithm
 
-### Evergrande Real Estate Group
-#### May.2019 – Apr.2021
-#### Product Manager
-
-- 
+- jd1
 
 
+#### Evergrande Real Estate Group
+##### May.2019 – Apr.2021
+##### Product Manager
+
+- jd1
+
+
+---
+
+
+### Education
+
+#### University of Wisconsin - Madison
+- Aug.2024 - Jun.2026 (Expected)
+- Master of Science in Computer Science
+
+
+#### South China University of Technology
+- May.2019 – Apr.2021
+- Bachelor of Accounting
+- Courses:
+  - Statistic Pinciple, Database Management, Data Modeling, Probability Theory, Calculus, Linear Algebra
 
 ---
 
