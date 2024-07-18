@@ -26,7 +26,7 @@ This project aimed to revolutionize the way product titles are matched with cate
 
 [Enhanced Fashion Design with Stable Diffusion](sd.md)
 
-This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:Trendy Redesigns, Style and Fabric Recoloring and Background Replacement. 
+This project utilizes **Stable Diffusion** to innovate fashion design and presentation. Key features include:Trendy Redesigns, Style and Fabric Recoloring and Background Replacement. 
 
 <img src="images/sd/1.png?raw=true"/>
 
@@ -57,17 +57,20 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 
 #### SHEIN
 
-##### Apr.2021 – Aug.2024
-##### Algorithm
-
-- jd1
+- Apr.2021 – Aug.2024
+- Algorithm
+  - Spearheaded the integration of large multimodal models GPT4, CLIP to analyze product fashion attributes and categorization, achieving 93% accuracy.
+  - Developed and maintained a Hadoop big data governance framework, overseeing the ingestion and management of billions of competitor data points, ensuring data integrity within 97%.
+  - Implemented analytics OLAP platforms to monitor user behavior and manage event life cycles, increasing data query efficiency by 30%.
 
 
 #### Evergrande Real Estate Group
-##### May.2019 – Apr.2021
-##### Product Manager
+- May.2019 – Apr.2021
+- Data Product Manager
 
-- jd1
+- Implemented user analytics dashboards, event tracking framework, and attribution analysis supporting business decisions. Designed 113 metrics based on AARRR Pirate Metrics framework and monitored performance consistently.
+
+- Led the development of a customer relationship management (CRM) platform encompassing the entire customer journey, integrating data analysis to enhance customer insights and drive 2 million in revenue.
 
 
 ---
