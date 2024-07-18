@@ -18,7 +18,7 @@ Achieving average **90%+** accuracy in **40+** attributes type **500+** attribut
 
 [Enhanced Product Categorization with RAG](rag.md)
 
-This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with Retrieval-Augmented Generation (RAG). 
+This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with **Retrieval-Augmented Generation (RAG)**. 
 
 Achieving **93%+** accuracy in multilables categorization.
 
@@ -28,7 +28,7 @@ Achieving **93%+** accuracy in multilables categorization.
 ---
 
 
-[Enhanced Fashion Design with Stable Diffusion](https://github.com/chloeeliu/LLMs-application/blob/main/Enhanced%20Fashion%20Design%20with%20Stable%20Diffusion/readme.md)
+[Enhanced Fashion Design with Stable Diffusion](sd.md)
 
 This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:
 
