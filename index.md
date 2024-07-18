@@ -4,21 +4,30 @@
 
 ### Industry Projects at SHEIN
 
-[Enhanced Product Categorization with RAG and GPT](https://github.com/chloeeliu/LLMs-application/tree/main/Enhanced%20Product%20Categorization%3A%20Leveraging%20RAG%20and%20GPT%20for%20Precision%20and%20Efficiency)
 
-This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with Retrieval-Augmented Generation (RAG).
-
-<img src="images/rag/1.jpg?raw=true"/>
-
----
 [Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha](attributes_recognition.md)
 
 This project was designed to leverage **Large Multimodal Models** like **GPT4 Gemini** to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing **CLIP** for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
 
-![image](https://github.com/user-attachments/assets/5a4a9588-bf34-4fa8-8004-2fb56cbf2a3d)
+Achieving average **90%+** accuracy in **40+** attributes type **500+** attributes lables recognition.
+
+![image](https://github.com/user-attachments/assets/644652f0-4bf9-4fae-99a0-582810358942)
 
 
 ---
+
+[Enhanced Product Categorization with RAG](https://github.com/chloeeliu/LLMs-application/tree/main/Enhanced%20Product%20Categorization%3A%20Leveraging%20RAG%20and%20GPT%20for%20Precision%20and%20Efficiency)
+
+This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with Retrieval-Augmented Generation (RAG). 
+
+Achieving **93%+** accuracy in multilables categorization.
+
+
+<img src="images/rag/1.jpg?raw=true"/>
+
+---
+
+
 [Enhanced Fashion Design with Stable Diffusion](https://github.com/chloeeliu/LLMs-application/blob/main/Enhanced%20Fashion%20Design%20with%20Stable%20Diffusion/readme.md)
 
 This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:
