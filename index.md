@@ -11,7 +11,7 @@ This project aimed to revolutionize the way product titles are matched with cate
 <img src="images/rag/1.jpg?raw=true"/>
 
 ---
-[LLMs Fashion Attribute Recognition and CLIP-Enhanced Product Recall](https://github.com/chloeeliu/LLMs-application/blob/main/fashion-attributes/readme.md)
+[LLMs Fashion Attribute Recognition and CLIP-Enhanced Product Recall](attributes_recognition.md)
 
 This project was designed to leverage cutting-edge AI technologies to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing CLIP for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
 
