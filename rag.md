@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/3b5b5a8f-54bb-4271-9c5c-177cd3abff5d)
 
 # Enhanced Product Categorization with Retrieval-Augmented Generation (RAG)
 
