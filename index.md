@@ -16,7 +16,7 @@ Achieving average **90%+** accuracy in **40+** attributes type **500+** attribut
 
 ---
 
-[Enhanced Product Categorization with RAG](https://github.com/chloeeliu/LLMs-application/tree/main/Enhanced%20Product%20Categorization%3A%20Leveraging%20RAG%20and%20GPT%20for%20Precision%20and%20Efficiency)
+[Enhanced Product Categorization with RAG](rag.md)
 
 This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with Retrieval-Augmented Generation (RAG). 
 
