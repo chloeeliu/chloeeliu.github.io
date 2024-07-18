@@ -156,7 +156,5 @@ Where:
 
 The bounding box coordinates should be in pixels, with (0, 0) representing the top-left corner of the image and (326, 163) representing the bottom-right corner.
 
-Additionally, if there are any characters that are partially obscured or difficult to recognize with certainty, please include them in the results with your best estimate of the character.```
-
-
+Additionally, if there are any characters that are partially obscured or difficult to recognize with certainty, please include them in the results with your best estimate of the character. ```
 
