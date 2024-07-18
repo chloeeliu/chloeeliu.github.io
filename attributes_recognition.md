@@ -28,6 +28,7 @@
 
 **Responsibility:** 
 - Algorithm role with prompt engineering, few shot designing and agent building. Work closely with senior NLP Algorithm testing and analyzing in python jupyter notebook.
+- Product Manager role with data pipeline design and application system design.
 
  
 
@@ -46,13 +47,14 @@
 
 ## ExampleShowcase
 
-![image](https://github.com/user-attachments/assets/205c1f38-5525-44f3-87d2-7879673c763b)
 
 Fashion attribute recognition requires a comprehensive analysis of the entire image, which includes the background, skin color, lighting, and shadows. These elements are crucial for accurately identifying and understanding the nuances of fashion attributes.
 
 Traditional CNN methods often rely on simplistic feature recognition techniques that disregard these critical elements, resulting in reduced accuracy, especially in complex scenarios.
 
 In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior performance in this task. This advanced approach enables a deeper understanding of the image as a whole, significantly improving the identification of fashion attributes.
+![image](https://github.com/user-attachments/assets/205c1f38-5525-44f3-87d2-7879673c763b)
+
 
 ## Traditional_CNN
 
@@ -94,6 +96,9 @@ In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior per
 - Specialized Domain Knowledge: GPT-4 might not be aware of domain-specific concepts. For example, the term "2 in 1" is a common style in fashion known as a false two-piece, which the model might not accurately understand.
 
 - Direct Naming Issue: The model cannot directly return internally defined attribute names specific to a company. Instead, it necessitates text matching to correlate its outputs with the company’s specific attribute lexicon.
+
+![image](https://github.com/user-attachments/assets/51dc8593-92dd-4a93-9245-440951f9e355)
+
 
 
 # EnhancingApplication
@@ -147,19 +152,5 @@ Average 87% accuracy in breaking down captcha within five try.
 ![image](https://github.com/user-attachments/assets/6ee7cc91-b638-4b25-8800-c5941fe97c2a)
 
 
-
-
-``` Please detect and locate the green lowercase d  letter present in the provided image successfully. 
-Return its bounding box coordinate. Provide the results in the following format:
-
-{"bbox": [x_min, y_min, x_max, y_max]}
-
-Where:
-- the image size is (327, 164)
-- x_min, y_min are the coordinates of the top-left corner of the green lowercase d  bounding box
-- x_max, y_max are the coordinates of the bottom-right corner of the green lowercase d  bounding box
-
-The bounding box coordinates should be in pixels, with (0, 0) representing the top-left corner of the image and (326, 163) representing the bottom-right corner.
-
-Additionally, if there are any characters that are partially obscured or difficult to recognize with certainty, please include them in the results with your best estimate of the character. ```
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/5d336160-701e-4885-9621-ee6a9b8038c3">
 
