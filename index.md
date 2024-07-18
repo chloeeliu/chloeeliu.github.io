@@ -68,9 +68,9 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 - May.2019 – Apr.2021
 - Data Product Manager
 
-- Implemented user analytics dashboards, event tracking framework, and attribution analysis supporting business decisions. Designed 113 metrics based on AARRR Pirate Metrics framework and monitored performance consistently.
+  - Implemented user analytics dashboards, event tracking framework, and attribution analysis supporting business decisions. Designed 113 metrics based on AARRR Pirate Metrics framework and monitored performance consistently.
 
-- Led the development of a customer relationship management (CRM) platform encompassing the entire customer journey, integrating data analysis to enhance customer insights and drive 2 million in revenue.
+  - Led the development of a customer relationship management (CRM) platform encompassing the entire customer journey, integrating data analysis to enhance customer insights and drive 2 million in revenue.
 
 
 ---
