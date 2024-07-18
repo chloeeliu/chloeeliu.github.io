@@ -8,7 +8,7 @@
 ### Industry Projects at SHEIN
 
 
-[Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha](attributes_recognition.md)
+[**Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha**](attributes_recognition.md)
 
 Leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to recognize and categorize fashion attributes from competitors' products, alongside employing **CLIP** for product recall based on top search keywords. Achieving average **90%+** accuracy in **500+** attributes lables.
 
@@ -17,7 +17,7 @@ Leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to recogniz
 
 ---
 
-[Enhanced Product Categorization with RAG](rag.md)
+[**Enhanced Product Categorization with RAG**](rag.md)
 
 This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with **Retrieval-Augmented Generation (RAG)**. Achieving **93%+** accuracy in multilables categorization.
 
@@ -27,7 +27,7 @@ This project aimed to revolutionize the way product titles are matched with cate
 ---
 
 
-[Enhanced Fashion Design with Stable Diffusion](sd.md)
+[**Enhanced Fashion Design with Stable Diffusion**](sd.md)
 
 This project utilizes **Stable Diffusion** to innovate fashion design and presentation. Key features include:Trendy Redesigns, Style and Fabric Recoloring and Background Replacement. 
 
@@ -35,7 +35,7 @@ This project utilizes **Stable Diffusion** to innovate fashion design and presen
 
 ---
 
-[Competitor Intelligence Framework with Big Data Governance](dw.md)
+[**Competitor Intelligence Framework with Big Data Governance**](dw.md)
 
 As Big data engineer, development **big data governance framework with Hadoop** for competitors' product data from web crawlling, around **tens of billions daily**. Covering from AWS original s3 data files into CV **embedding vector system** application.
 
@@ -45,7 +45,7 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 
 ---
 
-[Event Tracking Management and User Analysis OLAP Platform](sample_page.md)
+[**Event Tracking Management and User Analysis OLAP Platform**](sample_page.md)
 
 - Implement event tracking management system to manage events life cycle. Build user behavior analytics modules with **OLAP** techs and advanced data structure like linked list and directed graph to visualize data. Improve query efficiency by **30%**, monthly average users **230**.
 
