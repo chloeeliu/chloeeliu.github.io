@@ -11,12 +11,12 @@ This project aimed to revolutionize the way product titles are matched with cate
 <img src="images/rag/1.jpg?raw=true"/>
 
 ---
-[LLMs Fashion Attribute Recognition and CLIP-Enhanced Product Recall](attributes_recognition.md)
+[Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha](attributes_recognition.md)
 
-This project was designed to leverage cutting-edge AI technologies to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing CLIP for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
+This project was designed to leverage **Large Multimodal Models** like **GPT4 Gemini** to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing **CLIP** for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
 
+![image](https://github.com/user-attachments/assets/5a4a9588-bf34-4fa8-8004-2fb56cbf2a3d)
 
-<img src="images/attributes/1.png?raw=true"/>
 
 ---
 [Enhanced Fashion Design with Stable Diffusion](https://github.com/chloeeliu/LLMs-application/blob/main/Enhanced%20Fashion%20Design%20with%20Stable%20Diffusion/readme.md)
