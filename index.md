@@ -1,4 +1,4 @@
-[My Resume](pdf/resume.pdf)
+[My Resume](pdf/Resume.pdf)
 
 
 ## Portfolio
