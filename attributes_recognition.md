@@ -133,8 +133,18 @@ In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior per
   - First GPT-4 Call for Logic Questions: Make the initial call to GPT-4 asking logic-based questions, such as "What is the lowercase letter corresponding to the yellow letter?". The response might be: "A lowercase letter 'a' in green."
 
   - Second GPT-4 Call for Bounding Box: The next call to GPT-4 requests the bounding box of the identified "green lowercase a".
+ 
+  - Calculate Bounding Box Centroid: Determine the centroid of the bounding box coordinates to guide the user interface for the correct click response.
 
-```Please detect and locate the green lowercase d  letter present in the provided image successfully. 
+**Achievement:**
+
+Average 87% accuracy in breaking down captcha within five try.
+![image](https://github.com/user-attachments/assets/6ee7cc91-b638-4b25-8800-c5941fe97c2a)
+
+
+
+
+``` Please detect and locate the green lowercase d  letter present in the provided image successfully. 
 Return its bounding box coordinate. Provide the results in the following format:
 
 {"bbox": [x_min, y_min, x_max, y_max]}
@@ -148,9 +158,5 @@ The bounding box coordinates should be in pixels, with (0, 0) representing the t
 
 Additionally, if there are any characters that are partially obscured or difficult to recognize with certainty, please include them in the results with your best estimate of the character.```
 
-  - Calculate Bounding Box Centroid: Determine the centroid of the bounding box coordinates to guide the user interface for the correct click response.
 
-**Achievement:**
 
-Average 87% accuracy in breaking down captcha within five try.
-![image](https://github.com/user-attachments/assets/6ee7cc91-b638-4b25-8800-c5941fe97c2a)
