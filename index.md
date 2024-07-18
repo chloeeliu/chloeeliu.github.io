@@ -7,7 +7,7 @@
 
 [Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha](attributes_recognition.md)
 
-This project was designed to leverage **Large Multimodal Models** like **GPT4 Gemini** to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing **CLIP** for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
+This project was designed to leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing **CLIP** for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
 
 Achieving average **90%+** accuracy in **40+** attributes type **500+** attributes lables recognition.
 
