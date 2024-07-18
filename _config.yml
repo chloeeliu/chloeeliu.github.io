@@ -1,13 +1,16 @@
 title: Chloe Liu # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Pursuing to excel in algorithmic roles. Incoming 2024 Fall students for MS in Computer Science at University of Wisconsin - Madison.
-  <br><br>
-  Senior Product Manager with 5 years of experience in big data and AI field, especially in LLM fashion industry application and big data management with hadoop.
+  Pursuing to excel in algorithmic roles, esp in LMMs application.
 
+  <br><br>
+  Incoming 2024 Fall students for MS in Computer Science at University of Wisconsin - Madison.
   <br><br>
 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+    <a href="https://www.linkedin.com/in/example/">View My Resume </a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
