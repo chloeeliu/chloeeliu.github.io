@@ -8,7 +8,7 @@
 
 This project was initiated to harness the power of web-crawled competitor data, utilizing sophisticated data warehousing and predictive analytics technologies to enhance our strategic decision-making capabilities. As a Big Data Product Manager, I led the development and implementation of a comprehensive data management framework that not only addressed data integrity but also supported advanced applications in competitive analysis and sales forecasting.
 
-![plot](https://github.com/chloeeliu/LLMs-application/blob/d63b0073c9ed5ff3d7e56b444fd7c611f9c8267d/image/dw/1.png)
+<img width="1009" alt="image" src="https://github.com/user-attachments/assets/96a8df83-b5cb-445b-b771-a4f3de0eb8a6">
  
 
 Our objectives: 
@@ -27,7 +27,7 @@ to create a robust data warehouse architecture capable of accommodating trillion
 
 - Graph Search Service: Overhauled our Kafka-based CV service, improving the completeness of our data matching capabilities from 63% to 99%. I also integrated a Milvus vector database with ResNet models to boost the accuracy of our product matching feature from 78% to 83%.
 
-![plot](https://github.com/chloeeliu/LLMs-application/blob/d63b0073c9ed5ff3d7e56b444fd7c611f9c8267d/image/dw/2.png)
+<img width="1020" alt="image" src="https://github.com/user-attachments/assets/b6f3bc52-2da0-49da-8c7a-9ae00d266ee5">
 
  
 
@@ -39,7 +39,7 @@ to create a robust data warehouse architecture capable of accommodating trillion
 
 - ARMA Model: Applied for predictive analytics to forecast sales trends based on historical data.
 
-- ![plot](https://github.com/chloeeliu/LLMs-application/blob/d63b0073c9ed5ff3d7e56b444fd7c611f9c8267d/image/dw/3.png)
+<img width="1007" alt="image" src="https://github.com/user-attachments/assets/5f9e509f-a9ed-405d-8e0a-38512a2c8355">
 
 
 - Milvus and ResNet: Integrated into our Kafka CV service to enhance the accuracy and efficiency of our graph search services for product matching.
