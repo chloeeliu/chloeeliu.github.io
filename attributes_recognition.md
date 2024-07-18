@@ -134,7 +134,7 @@ In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior per
 
   - Second GPT-4 Call for Bounding Box: The next call to GPT-4 requests the bounding box of the identified "green lowercase a".
 
-`Please detect and locate the green lowercase d  letter present in the provided image successfully. 
+```Please detect and locate the green lowercase d  letter present in the provided image successfully. 
 Return its bounding box coordinate. Provide the results in the following format:
 
 {"bbox": [x_min, y_min, x_max, y_max]}
@@ -146,7 +146,7 @@ Where:
 
 The bounding box coordinates should be in pixels, with (0, 0) representing the top-left corner of the image and (326, 163) representing the bottom-right corner.
 
-Additionally, if there are any characters that are partially obscured or difficult to recognize with certainty, please include them in the results with your best estimate of the character.`
+Additionally, if there are any characters that are partially obscured or difficult to recognize with certainty, please include them in the results with your best estimate of the character.```
 
   - Calculate Bounding Box Centroid: Determine the centroid of the bounding box coordinates to guide the user interface for the correct click response.
 
