@@ -9,8 +9,10 @@
 - [Project Development](#ProjectDevelopment)
   - [Example Showcase](#ExampleShowcase)
   - [Traditional CNN](#Traditional_CNN)
-  - [Project Development](#ProjectDevelopment)
-- [Project Development](#ProjectDevelopment)
+  - [LMMs - GPT-4 & Gemini](#LMMs-GPT-4&Gemini)
+- [Trend-Based_Product_Traffic_Optimization_Using_CLIP_Model](#Trend-Based_Product_Traffic_Optimization_Using_CLIP_Model)
+- [Break_Down_Captcha_with_GPT4_Azure_OCR_Enhancement](#Break_Down_Captcha_with_GPT4_Azure_OCR_Enhancement)
+
 
 
 # Introduction
@@ -71,7 +73,7 @@ In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior per
 - Lower accuracy. This is especially true for distinguishing finer detail attributes, as the model doesn't effectively learn the characteristic features of these attributes.
 
 
-## LMMs - GPT-4 & Gemini
+## LMMs-GPT-4&Gemini
 
  ![image](https://github.com/user-attachments/assets/6a20d664-6956-4910-ae09-35ae5ac45f1e)
 
@@ -94,11 +96,14 @@ In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior per
 - Direct Naming Issue: The model cannot directly return internally defined attribute names specific to a company. Instead, it necessitates text matching to correlate its outputs with the company’s specific attribute lexicon.
 
 
-# Enhancing Application
+# EnhancingApplication
 
-## 4.1 Application of CLIP in Search Keyword Trend Analysis
+## Trend-Based_Product_Traffic_Optimization_Using_CLIP_Model
 
 ![image](https://github.com/user-attachments/assets/f663b4b3-5965-45e1-9066-3bf00053bd61)
+
+
+This project aims to enhance product operations by leveraging search trend data to recall and promote relevant products, thereby optimizing sales performance. Utilizing the CLIP model, the system identifies trending keywords—such as "Y2K"—and locates products within our inventory that align with these trends. Once identified, these products are prioritized for increased traffic, exposure, and promotional activities within our application. By dynamically adapting to current trends, this approach ensures that our product offerings remain highly relevant and appealing to our customer base, ultimately driving higher sales and improved operational efficiency.
 
 
 **Steps:**
@@ -114,11 +119,11 @@ In contrast, Large Language Models (LLMs) such as GPT-4 demonstrate superior per
 
 - AB Testing Validation: Conducted AB tests to validate the model's product selections, resulting in a 2.5% higher exposure rate compared to the general market during the same period.
 
-<img width="1489" alt="image" src="https://github.com/user-attachments/assets/8f20cf2a-3ac1-48e3-846c-4ce86aac98db">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8f20cf2a-3ac1-48e3-846c-4ce86aac98db">
 
 
 
-## 4.2 Break down Captcha with GPT4 Azure OCR Enhancement
+## Break_Down_Captcha_with_GPT4_Azure_OCR_Enhancement
 
 ![image](https://github.com/user-attachments/assets/98694f6c-af70-4d97-bba5-9b08028ecf9b)
 
