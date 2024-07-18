@@ -7,9 +7,7 @@
 
 [Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha](attributes_recognition.md)
 
-This project was designed to leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to enhance our understanding and adaptation to fashion industry trends. By recognizing and categorizing fashion attributes from competitors' products using LLM and predicting trends with statistical model, alongside employing **CLIP** for product recall based on top search keywords, we aimed to refine our product operation strategies to better align with market demands.
-
-Achieving average **90%+** accuracy in **40+** attributes type **500+** attributes lables recognition.
+Leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to recognize and categorize fashion attributes from competitors' products, alongside employing **CLIP** for product recall based on top search keywords. Achieving average **90%+** accuracy in **500+** attributes lables.
 
 ![image](https://github.com/user-attachments/assets/644652f0-4bf9-4fae-99a0-582810358942)
 
@@ -18,9 +16,7 @@ Achieving average **90%+** accuracy in **40+** attributes type **500+** attribut
 
 [Enhanced Product Categorization with RAG](rag.md)
 
-This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with **Retrieval-Augmented Generation (RAG)**. 
-
-Achieving **93%+** accuracy in multilables categorization.
+This project aimed to revolutionize the way product titles are matched with category trees by integrating NLP techniques with **Retrieval-Augmented Generation (RAG)**. Achieving **93%+** accuracy in multilables categorization.
 
 
 ![image](https://github.com/user-attachments/assets/c19c1555-5bf6-4a50-b9bb-6de7a392ff55)
@@ -30,13 +26,7 @@ Achieving **93%+** accuracy in multilables categorization.
 
 [Enhanced Fashion Design with Stable Diffusion](sd.md)
 
-This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:
-
-- Trendy Redesigns: Updates existing garments to align with current trends.
-
-- Style and Fabric Recoloring: Alters garment styles and colors via AI.
-
-- Background Replacement: Modifies still image backgrounds to enhance product focus.
+This project utilizes Stable Diffusion to innovate fashion design and presentation. Key features include:Trendy Redesigns, Style and Fabric Recoloring and Background Replacement. 
 
 <img src="images/sd/1.png?raw=true"/>
 
@@ -44,9 +34,7 @@ This project utilizes Stable Diffusion to innovate fashion design and presentati
 
 [Competitor Intelligence Framework with Big Data Governance](dw.md)
 
-This project was initiated to harness web-crawled seven competitors  **tens of billions daily** websites product data, utilizing **Hadoop data warehouse** and predictive analytics technologies to enhance our competitor analysis capabilities. 
-
-Responsibility: As Big data engineer, development and implementation of a comprehensive **big data governance framework**, covering from ods original s3 data file into **data visualization** and CV similar computing **embedding vector system**.
+As Big data engineer, development **big data governance framework with Hadoop** for competitors' product data from web crawlling, around **tens of billions daily**. Covering from AWS original s3 data files into CV **embedding vector system** application.
 
 
 ![image](https://github.com/user-attachments/assets/4590992f-2a30-445c-85ad-3c3a843eecef)
@@ -56,20 +44,29 @@ Responsibility: As Big data engineer, development and implementation of a compre
 
 [Event Tracking Management and User Analysis OLAP Platform](sample_page.md)
 
-- Implement event tracking management, auto testing and monitoring modules to manage events life cycle and realize data governance. Manage 5 business lines with 40k events and 230 monthly average users.
+- Implement event tracking management system to manage events life cycle. Build user behavior analytics modules with **OLAP** techs and advanced data structure like linked list and directed graph to visualize data. Improve query efficiency by **30%**, monthly average users **230**.
 
-- Using clickhouse OLAP with advanced data structure like linked list and directed graph to instantly analyze daily tens of billions of events data, design asynchronous, routing engine, partitioning and other methods to improve query efficiency by 30%, monthly average users 90.
 
 <img src="images/event/user.png?raw=true"/>
 
 ---
 
 
-### Kaggle Projects
+### Work Experience
 
-- [House Price Predict top 3% Ranking](https://github.com/chloeeliu/DataSciencePortfolio/tree/main/Kaggle_house_price_predict)
-- [Hand Written Digit Recognization](https://github.com/chloeeliu/DataSciencePortfolio/blob/main/Hand_Written_Digit_Recognization/digit%20recognizer.ipynb)
-- [Titanic Survived Predict](https://github.com/chloeeliu/DataSciencePortfolio/blob/main/Titan_Survived_Predict/titanic%20survived%20predict.ipynb)
+
+### SHEIN
+#### Apr.2021 – Aug.2024
+#### Algorithm
+
+- 
+
+### Evergrande Real Estate Group
+#### May.2019 – Apr.2021
+#### Product Manager
+
+- 
+
 
 
 ---
