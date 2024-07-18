@@ -5,9 +5,9 @@
 - [Introduction](#Introduction)
 - [Achievements](#Achievements)
 - [Project Development](#ProjectDevelopment)
-- [Example Showcase](##ExampleShowcase)
-- [Traditional CNN](##Traditional_CNN)
-- [Project Development](#ProjectDevelopment)
+ - [Example Showcase](#ExampleShowcase)
+ - [Traditional CNN](#Traditional_CNN)
+ - [Project Development](#ProjectDevelopment)
 - [Project Development](#ProjectDevelopment)
 
 
