@@ -42,11 +42,15 @@ This project utilizes Stable Diffusion to innovate fashion design and presentati
 
 ---
 
-[Competitor Intelligence Framework with Big Data Governance](https://github.com/chloeeliu/LLMs-application/blob/main/big-data-governance/readme.md)
+[Competitor Intelligence Framework with Big Data Governance](dw.md)
 
-This project was initiated to harness the power of web-crawled competitor data, utilizing sophisticated data warehousing and predictive analytics technologies to enhance our strategic decision-making capabilities. As a Big Data Product Manager, I led the development and implementation of a comprehensive data management framework that not only addressed data integrity but also supported advanced applications in competitive analysis and sales forecasting.
+This project was initiated to harness web-crawled seven competitors  **tens of billions daily** websites product data, utilizing **Hadoop data warehouse** and predictive analytics technologies to enhance our competitor analysis capabilities. 
 
-<img src="images/dw/1.png?raw=true"/>
+Responsibility: As Big data engineer, development and implementation of a comprehensive **big data governance framework**, covering from ods original s3 data file into **data visualization** and CV similar computing **embedding vector system**.
+
+
+![image](https://github.com/user-attachments/assets/4590992f-2a30-445c-85ad-3c3a843eecef)
+
 
 ---
 
