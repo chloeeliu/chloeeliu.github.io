@@ -9,7 +9,7 @@
 
 Leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to recognize and categorize fashion attributes from competitors' products, alongside employing **CLIP** for product recall based on top search keywords. Achieving average **90%+** accuracy in **500+** attributes lables.
 
-![image](https://github.com/user-attachments/assets/644652f0-4bf9-4fae-99a0-582810358942)
+![image](https://github.com/user-attachments/assets/00b3d60a-c788-420b-93c4-f96a3bb62b01)
 
 
 ---
@@ -37,7 +37,7 @@ This project utilizes Stable Diffusion to innovate fashion design and presentati
 As Big data engineer, development **big data governance framework with Hadoop** for competitors' product data from web crawlling, around **tens of billions daily**. Covering from AWS original s3 data files into CV **embedding vector system** application.
 
 
-![image](https://github.com/user-attachments/assets/4590992f-2a30-445c-85ad-3c3a843eecef)
+![image](https://github.com/user-attachments/assets/dfd91028-124a-4382-ad88-fc5d8284edac)
 
 
 ---
