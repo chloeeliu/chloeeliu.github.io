@@ -8,9 +8,9 @@
 ### Industry Projects at SHEIN
 
 
-[Fashion Attributes Extraction for Trend Analysis and Enhance Application with CLIP and Reasoning Captcha](attributes_recognition.md)
+[Fashion Attributes Extraction and Enhance Application with CLIP](attributes_recognition.md)
 
-Leverage **Large Multimodal Models** like **GPT4, Gemini, Idefics2** to recognize and categorize fashion attributes from competitors' products, alongside employing **CLIP** for product recall based on top search keywords. Achieving average **90%+** accuracy in **500+** attributes lables.
+Leverage **Large Multimodal Models** like **GPT4, Gemini** to recognize and categorize fashion attributes from competitors' products, alongside employing **CLIP** for fashion product recall based on top search keywords. Achieving average **90%+** accuracy in **500+** attributes lables.
 
 ![image](https://github.com/user-attachments/assets/00b3d60a-c788-420b-93c4-f96a3bb62b01)
 
@@ -60,19 +60,19 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 
 #### SHEIN
 
-- Apr.2021 – Aug.2024
-- Algorithm
-  - Spearheaded the integration of large multimodal models GPT4, CLIP to analyze product fashion attributes and categorization, achieving 93% accuracy.
-  - Developed and maintained a Hadoop big data governance framework, overseeing the ingestion and management of billions of competitor data points, ensuring data integrity within 97%.
-  - Implemented analytics OLAP platforms to monitor user behavior and manage event life cycles, increasing data query efficiency by 30%.
-
+- Apr.2023 – Aug.2024
+- Machine Learning Engineer
+  - Led the integration of VLM vision-language model (CLIP, GPT) for product governance and trend analysis, contributing to a 0.2% growth in sales through advanced competitor pricing insights.
+  - Implemented background modifications and detail refinements using LoRA for Stable Diffusion, boosting
+fashion design efficiency by 32%
+- Apr.2021 – Apr.2023
+- Developed a data pipeline for competitive analysis, leveraging web crawlers, Hadoop, and computer vision to achieve 99% accuracy in price matching across seven competitors.
 
 #### Evergrande Real Estate Group
 - May.2019 – Apr.2021
 - Data Product Manager
 
-  - Implemented user analytics dashboards, event tracking framework, and attribution analysis supporting business decisions. Designed 113 metrics based on AARRR Pirate Metrics framework and monitored performance consistently.
-
+  - Designed and implemented a user behavior analysis platform, integrating app SDK event tracking and automated modules, maintaining 99% data accuracy.
   - Led the development of a customer relationship management (CRM) platform encompassing the entire customer journey, integrating data analysis to enhance customer insights and drive 2 million in revenue.
 
 
@@ -84,6 +84,7 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 #### University of Wisconsin - Madison
 - Aug.2024 - Jun.2026 (Expected)
 - Master of Science in Computer Science
+  - Advanced Natural Language Processing, Machine Learning
 
 
 #### South China University of Technology
