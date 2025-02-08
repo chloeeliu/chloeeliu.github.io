@@ -1,4 +1,3 @@
-[My Resume](pdf/Resume.pdf)
 
 
 ## Portfolio
