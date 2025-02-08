@@ -54,26 +54,6 @@ As Big data engineer, development **big data governance framework with Hadoop** 
 ---
 
 
-### Work Experience
-
-
-#### SHEIN
-
-- Apr.2023 – Aug.2024
-- Machine Learning Engineer
-  - Led the integration of VLM vision-language model (CLIP, GPT) for product governance and trend analysis, contributing to a 0.2% growth in sales through advanced competitor pricing insights.
-  - Implemented background modifications and detail refinements using LoRA for Stable Diffusion, boosting
-fashion design efficiency by 32%
-- Apr.2021 – Apr.2023
-- Developed a data pipeline for competitive analysis, leveraging web crawlers, Hadoop, and computer vision to achieve 99% accuracy in price matching across seven competitors.
-
-#### Evergrande Real Estate Group
-- May.2019 – Apr.2021
-- Data Product Manager
-
-  - Designed and implemented a user behavior analysis platform, integrating app SDK event tracking and automated modules, maintaining 99% data accuracy.
-  - Led the development of a customer relationship management (CRM) platform encompassing the entire customer journey, integrating data analysis to enhance customer insights and drive 2 million in revenue.
-
 
 ---
 
